@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise Threat Simulation & Security Monitoring Lab
 
 ## Project Overview
@@ -35,3 +36,7 @@ The environment consists of several interconnected VirtualBox virtual machines m
 * *SIEM & Log Analysis:* Wazuh, centralized event log collection.
 * *Enterprise Environment Management:* Windows Server 2022 Active Directory, Windows 11, and Linux client configuration.
 * *Threat Simulation:* Controlled attack execution and security control validation.
+=======
+# enterprise-threat-simulation-lab
+This project demonstrates a multi-machine enterprise simulation designed to test threat detection
+>>>>>>> 52468a152f3772f24294c7ecd8f18d7af9a46c5a
